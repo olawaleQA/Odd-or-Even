@@ -1,4 +1,4 @@
-let number = 10
+let number = 9
 
 let remainder = number % 2
 
@@ -7,3 +7,4 @@ if(remainder == 0){
 }else{
     console.log('odd number')
 }
+
